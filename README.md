@@ -1,6 +1,3 @@
-Here is a professional and comprehensive README.md in English, specifically tailored for your GitHub repository. It explains the game mechanics, the technical architecture of Solana/Anchor, and how the token economy works.
-
-Markdown
 # Boss Golden Dragon Battle 🐉 💰
 
 A decentralized combat and economy game built with the **Anchor Framework** on the Solana blockchain. Players manage their energy, fight a powerful Boss, and interact with a dynamic SPL token economy (**GoldenDragon Tokens**).
